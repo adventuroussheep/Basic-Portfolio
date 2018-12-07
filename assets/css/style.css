@@ -64,6 +64,11 @@
     margin-left: 10%;
 }
 
+.name:hover {
+    background-position: bottom right;
+    color: #4aaaa5;
+}
+
 .buttons {
     display: block;
     margin-left: 18%;
@@ -293,6 +298,7 @@ h3 {
     border: none;
     background-color: #4aaaa5;
     color: white;
+    margin-bottom: 10px;
 }
 
 .contact-submit:hover{
