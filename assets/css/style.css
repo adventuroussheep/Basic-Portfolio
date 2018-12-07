@@ -64,11 +64,6 @@
     margin-left: 10%;
 }
 
-.name:hover {
-    background-position: bottom right;
-    color: #4aaaa5;
-}
-
 .buttons {
     display: block;
     margin-left: 18%;
